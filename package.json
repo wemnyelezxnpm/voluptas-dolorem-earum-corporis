@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@wemnyelezxnpm/voluptas-dolorem-earum-corporis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/wemnyelezxnpm/voluptas-dolorem-earum-corporis.git"
   },
   "dependencies": {
+    "@wemnyelezxnpm/a-illo-eos-qui": "^1.0.0",
+    "@wemnyelezxnpm/excepturi-odit-culpa-magnam": "^1.0.0",
+    "@wemnyelezxnpm/inventore-totam-iste-pariatur": "^1.0.0",
+    "@wemnyelezxnpm/quis-consectetur-nisi-dicta": "^1.0.0",
+    "@wemnyelezxnpm/tenetur-architecto-laborum-hic": "^1.0.0"
   }
 }
